@@ -172,7 +172,6 @@ class _BMICalcState extends State<BMICalc> {
             Text(
               ' ${selectedGender} $status',
             ),
-//hello this is imran
 
 
           ],
